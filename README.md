@@ -8,4 +8,6 @@ The price of crude oil is essential to the economy because it drives the energy 
 * **Microsoft Excel** and **PowerPoint** - data presentation.
 
 * ## 🎯 Project Goals
-1.  
+1.  Analyze the **geographical distribution of fuel types** to understand how the price fluctuations differ from each city over time.
+2.  Examine the **seasonal variations** in fuel prices to identify the movements and how they respond to **demand cycles**, **weather patterns**, and **market conditions**.
+3.  Utilize a time series chart to investigate the **price volatility** of gasoline and natural gas, identifying fluctuations, trends, and periods of increased instability over time.
