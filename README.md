@@ -24,4 +24,4 @@ Out of **13 Canadian cities**, the interactive Tableau dashboard provides meanin
 ## 📚 Quantitative Insights from Dashboard
 Average price and standard deviations were computed for quantitative analysis:
 
-![image alt](
+![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/435c3930ae01cf672390d363248e6f048ec42932/Screenshot%202026-03-22%20161256.png)
