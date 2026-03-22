@@ -22,7 +22,7 @@ Out of **13 Canadian cities**, the interactive Tableau dashboard provides meanin
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/5f3b0c35da590f4012325bd034e131c5a3653bc4/Screenshot%202026-03-22%20143404.png)
 
 ## 📚 Quantitative Insights from Dashboard
-Average price and standard deviations were computed for quantitative analysis:
+Average price difference and standard deviations were computed for quantitative analysis:
 * Regular gasoline - considerably high average standard deviation = **Higher price volatility**.
 * Natural gas - average price difference mostly in favor of regular gasoline = **Lower price with relative stability**
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/435c3930ae01cf672390d363248e6f048ec42932/Screenshot%202026-03-22%20161256.png)
