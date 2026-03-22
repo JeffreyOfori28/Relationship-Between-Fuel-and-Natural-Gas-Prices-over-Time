@@ -17,11 +17,12 @@ Out of **13 Canadian cities**, the interactive Tableau dashboard provides meanin
 * Premium Gasoline and Natural gas prices were relatively stable between the years **2000** and **2010**.
 * The prices do not differ significantly in **cities** of the same **province**.
 * Prices were consistently unstable in the year **2022**, with natural gas experiencing a higher average inflation rate than premium gasoline.
-* Premium gasoline is expensive in summer, and natural gas has a smooth fluctuation rate in response to seasonal variations. 
+* Premium gasoline is expensive in **summer**, and natural gas has a **smooth** fluctuation rate in response to seasonal variations. 
 
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/5f3b0c35da590f4012325bd034e131c5a3653bc4/Screenshot%202026-03-22%20143404.png)
 
 ## 📚 Quantitative Insights from Dashboard
 Average price and standard deviations were computed for quantitative analysis:
-
+* Regular gasoline - considerably high average standard deviation = **Higher price volatility**.
+* Natural gas - average price difference mostly in favor of regular gasoline = **Lower price with relative stability**
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/435c3930ae01cf672390d363248e6f048ec42932/Screenshot%202026-03-22%20161256.png)
