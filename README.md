@@ -28,3 +28,5 @@ Average price difference and standard deviations were computed to support quanti
 * Natural gas - average price difference mostly in favor of regular gasoline = **Lower price with relative stability**
 Link to Tableau Dashboard:
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/435c3930ae01cf672390d363248e6f048ec42932/Screenshot%202026-03-22%20161256.png)
+
+## Project Presentation Slide
