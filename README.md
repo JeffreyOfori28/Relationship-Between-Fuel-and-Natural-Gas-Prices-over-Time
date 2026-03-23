@@ -30,3 +30,6 @@ Link to Tableau Dashboard:
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/435c3930ae01cf672390d363248e6f048ec42932/Screenshot%202026-03-22%20161256.png)
 
 ## Project Presentation Slide
+![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/c731eb40189af827b0108379a19f194fdae218ab/Screenshot%202026-03-22%20222905.png)
+
+## 🚀 Business Impact & Strategy
