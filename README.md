@@ -3,9 +3,9 @@
 The price of crude oil is essential to the economy because it drives the energy sector, which supports transportation, electricity generation, and industrial production. This project analyzes gasoline and natural gas price dynamics across Canadian cities using **Python-based quantitative** and **exploratory analysis** to understand **price movements**, **spreads**, and **volatility**, supporting data-driven insights and energy market monitoring.
 
 ## 🛠 Technical Approach
-* **Python** - data cleaning and transformation, comparative analysis, and data visualization.
+* **Python** - data cleaning and transformation, comparative analysis, and quantitative analysis.
+* **Microsoft Excel** and **PowerPoint** - data visualization and presentation.
 * **Tableau** - dashboard development and data storytelling.
-* **Microsoft Excel** and **PowerPoint** - data presentation.
 
 * ## 🎯 Project Goals
 1.  Analyze the **geographical distribution of fuel types** to understand how the price fluctuations differ from each city over time.
