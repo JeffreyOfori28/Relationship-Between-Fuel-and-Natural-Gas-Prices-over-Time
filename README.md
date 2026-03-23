@@ -12,7 +12,7 @@ The price of crude oil is essential to the economy because it drives the energy 
 2.  Examine the **seasonal variations** in fuel prices to identify the movements and how they respond to **demand cycles**, **weather patterns**, and **market conditions**.
 3.  Utilize a time series chart to investigate the **price volatility** of gasoline and natural gas, identifying fluctuations, trends, and periods of increased instability over time.
 
-[Dashboard Link](https://public.tableau.com/app/profile/jeffrey.ofori/viz/RelationshipbetweenGasolineandNaturalGasPrices2000-2023/PremiumGasolinevsNaturalGas)
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/jeffrey.ofori/viz/RelationshipbetweenGasolineandNaturalGasPrices2000-2023/PremiumGasolinevsNaturalGas)
 ## 📊 Comparative Insights from Dashboard
 Out of **13 Canadian cities**, the interactive Tableau dashboard provides meaningful insights into the price dynamics, explaining the relationship between the two fuel types:
 * Premium Gasoline and Natural gas prices were relatively stable between the years **2000** and **2010**.
