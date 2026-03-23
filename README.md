@@ -19,7 +19,7 @@ Out of **13 Canadian cities**, the interactive Tableau dashboard provides meanin
 * Prices were consistently unstable in the year **2022**, with natural gas experiencing a higher average inflation rate than premium gasoline.
 * Premium gasoline is expensive in **summer**, and natural gas has a **smooth** fluctuation rate in response to seasonal variations. 
 
-![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/5f3b0c35da590f4012325bd034e131c5a3653bc4/Screenshot%202026-03-22%20143404.png)
+![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/c964bb2958988dde6ef8fef76f896a54056fad07/Screenshot%202026-03-22%20143404.png)
 
 ## 📚 Quantitative Insights from Dashboard
 Average price difference and standard deviations were computed to support quantitative analysis:
