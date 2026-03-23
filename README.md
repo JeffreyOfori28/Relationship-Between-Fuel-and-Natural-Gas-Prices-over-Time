@@ -33,3 +33,5 @@ Link to Tableau Dashboard:
 ![image alt](https://github.com/JeffreyOfori28/Relationship-Between-Fuel-and-Natural-Gas-Prices-over-Time/blob/c731eb40189af827b0108379a19f194fdae218ab/Screenshot%202026-03-22%20222905.png)
 
 ## 🚀 Business Impact & Strategy
+* **Fuel distributors and energy firms to forecast demand more accurately and identify underserved markets**
+* **Business to improve operational planning and reduce supply inefficiencies to respond to seasonal price patterns**
